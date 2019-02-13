@@ -1,0 +1,11 @@
+https://github.com/gdubrg/Eye-Tracking-for-Everyone
+
+
+
+run
+python3 itracker_adv.py
+
+
+
+ --train -i '/media/ngotien/D/lvtn/dataset/MPIIFaceGaze/Eye Tracker/eye_tracker_train_and_val/'  -sm my_model
+
